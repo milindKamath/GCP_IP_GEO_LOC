@@ -2,7 +2,7 @@
 
 >> Pipeline 
 
-![](IP geolocation.png)
+![](https://github.com/milindKamath/GCP_IP_GEO_LOC/blob/9e2e6aaba38466ff6259caa02cbdfdefd58ce05d/IP%20geolocation.png)
 
 >> Pipeline Steps:
 
